@@ -18,7 +18,18 @@
 		<link>
 			<name>assets</name>
 			<type>2</type>
-			<locationURI>PARENT-1-PROJECT_LOC/core/assets</locationURI>
+			<locationURI>assets</locationURI>
+		</link>
+		<link>
+			<name>fighter_assets</name>
+			<type>2</type>
+			<locationURI>fighter_assets</locationURI>
 		</link>
 	</linkedResources>
+	<variableList>
+		<variable>
+			<name>assets</name>
+			<value>$%7BPARENT-1-PROJECT_LOC%7D/Fighter-core/assets</value>
+		</variable>
+	</variableList>
 </projectDescription>

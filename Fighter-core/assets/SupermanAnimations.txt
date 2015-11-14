@@ -1,0 +1,15 @@
+2
+introAnim
+SupermanIntro.png
+80
+150
+1
+2
+.10
+defaultAnim
+SupermanDefault.png
+90
+100
+1
+2
+.10

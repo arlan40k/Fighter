@@ -1,0 +1,9 @@
+1
+introAnim
+RyuIntro.png
+75
+110
+2
+8
+.10
+
